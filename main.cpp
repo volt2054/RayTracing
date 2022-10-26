@@ -42,7 +42,7 @@ public:
 
     vec3 operator/(const double &T) const
     {
-        return vec3(x / T, y / T, z / T)
+        return vec3(x / T, y / T, z / T);
     }
 
 };
